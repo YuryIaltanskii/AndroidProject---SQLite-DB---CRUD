@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/action_about"
+        android:icon="@drawable/ic_action_name"
+        android:title="@string/action_about"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_options"
+        android:icon="@drawable/ic_action_options"
+        android:title="@string/action_options"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/ic_action_back"
+        android:title="@string/action_back"
+        app:showAsAction="always"/>
+
+
+</menu>

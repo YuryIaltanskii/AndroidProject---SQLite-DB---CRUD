@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_syncConnectionTypes_entries">
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+    </string-array>
+
+    <string-array name="pref_syncConnectionTypes_values">
+        <item>ENG</item>
+        <item>SPA</item>
+        <item>FRC</item>
+    </string-array>
+</resources>

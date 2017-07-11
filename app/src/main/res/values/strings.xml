@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MailDBClient</string>
+    <string name="titulo_checkbox_subrayado">Underline Title</string>
+    <string name="summary_checkbox_subrayado">Tick the box to get title underlined</string>
+    <string name="pref_syncConnectionType">Choose language</string>
+
+    <string name="val">Name:</string>
+    <string name="nreg">ID:</string>
+    <string name="ins">Insert</string>
+    <string name="upd">Update</string>
+    <string name="del">Delete</string>
+    <string name="get">Get</string>
+    <string name="action_about">About</string>
+    <string name="action_options">Options</string>
+    <string name="action_back">Back</string>
+    <string name="action_add">Add</string>
+    <string name="action_show">Show</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_name">Country Name</string>
+    <string name="add_record">Add Record</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="enter_desc">Currency</string>
+    <string name="enter_title">Country</string>
+</resources>
